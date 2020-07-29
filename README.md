@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am an Android developer and a computer science student currently working on an app called Milele welfare for a community based welfare group. In addition to Computer science i am also self learning web development and currently in my begginer stages of web development. I am looking to collaborate with other android and web developers to help me learn new tips and tricks on the development world. You can reach me through my Email: nich.otieno @gmail.com or my phone number +254726575615
 <!--
 **Crucialjun/crucialjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
