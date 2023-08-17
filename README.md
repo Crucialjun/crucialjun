@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am an Android software developer and a Flutter developer, and in addition to software development, I am also self-learning web development and am currently in my beginner stages of web development. I am looking to collaborate with other software developers and web developers to create more great software and in the process
-help each other in learning new tips and tricks in the ever-changing technological world. I am looking to collaborate with other android and web developers to help me learn new tips and tricks on the development world. You can reach me through my Email: nich.otieno @gmail.com or my phone number +254726575615
+Dedicated Flutter and Android developer with over 8 years of experience in mobile application development. Proficient in Java, Kotlin, and Flutter, with a passion for creating impactful user experiences. Experienced in leading frontend development, collaborating closely with cross-functional teams to deliver feature-rich applications. Skilled in UI/UX design using tools like Figma and committed to continuous learning, including expanding expertise to React and React Native. Strong communicator and mentor, fostering collaborative learning environments. Excited to contribute technical proficiency and creative problem-solving to drive innovation in software development.
+You can reach me through my Email: nich.otieno @gmail.com or my phone number +254726575615
 <!--
 **Crucialjun/crucialjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
