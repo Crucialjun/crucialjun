@@ -1,5 +1,25 @@
 # 💫 About Me:
-Dedicated Flutter and Android developer with over 8 years of experience in mobile application development. Proficient in Java, Kotlin, and Flutter, with a passion for creating impactful user experiences. Experienced in leading frontend development, collaborating closely with cross-functional teams to deliver feature-rich applications. Skilled in UI/UX design using tools like Figma and committed to continuous learning, including expanding expertise to React and React Native. Strong communicator and mentor, fostering collaborative learning environments. Excited to contribute technical proficiency and creative problem-solving to drive innovation in software development. You can reach me through my Email: nich.otieno @gmail.com or my phone number +254726575615<br>🔭 I’m currently working on FineFoods App and Sternpay Fintech App<br>👯 I’m looking to collaborate on Flutter and android native projects<br>🤝 I’m looking for help with web development server-side programming<br>🌱 I’m currently learning backend server-side programming<br>💬 Ask me about mobile app development<br>
+Hi, I'm Nicholas 👋
+
+I'm a Full Stack Software Engineer focused on building scalable mobile and backend systems.
+
+I specialize in Flutter, Kotlin, and .NET, with experience designing production-grade applications used in fintech, insurance, and enterprise environments. My work ranges from building high-performance mobile apps to modernizing legacy backend systems and exposing them through clean API architectures.
+
+Currently I work on modernizing legacy banking and insurance platforms, transforming monolithic .NET systems into modular, API-driven services that integrate with mobile applications and AI tools.
+
+Things I care about:
+• Clean architecture and maintainable systems  
+• Performance and reliability in production apps  
+• Secure API integrations and mobile security  
+• Modernizing legacy systems without breaking business workflows  
+• Building tools that scale to real users
+
+Tech I work with often:
+Flutter • Kotlin • Dart • .NET • REST APIs • SQL Server • Clean Architecture • CI/CD
+
+I enjoy working on challenging engineering problems, especially where mobile, backend systems, and real-world business workflows intersect.
+
+Portfolio: https://crucialjun.github.io  
 
 
 ## 🌐 Socials:
